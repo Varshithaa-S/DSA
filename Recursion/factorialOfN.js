@@ -3,3 +3,4 @@ function factorialOfN(n) {
     return n * (factorialOfN(n-1))
 }
 console.log(factorialOfN(5))
+i
