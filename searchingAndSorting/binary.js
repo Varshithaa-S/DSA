@@ -23,3 +23,6 @@ var search = function(nums, target) {
     }
     return -1
 };
+
+//space ; O(3) -> O(1);
+//time -> (log n)
